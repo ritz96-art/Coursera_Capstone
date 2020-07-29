@@ -1,2 +1,3 @@
-# Coursera_Capstone
-first capstone project notebook
+# Finding correlation between Cities Using K-means Clustering
+
+
